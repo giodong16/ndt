@@ -73,6 +73,9 @@
         background-color: rgba(0, 0, 0, 0.466);
         position: none;
        }
+       #menu:hover{
+        background-color:  rgba(0, 0, 0, 0.850);
+    }
     #info img{
         float:right;
         height: 80%;
